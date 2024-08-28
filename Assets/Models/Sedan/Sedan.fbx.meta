@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 4caf439c6a06f7443b87d563a5cc1413
+timeCreated: 1527031093
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: body
+    100002: body_interior
+    100004: body_interior_low
+    100006: body_interior_med
+    100008: body_low
+    100010: body_med
+    100012: body_verylow
+    100014: cameras
+    100016: lidar01
+    100018: light_brakes
+    100020: light_front
+    100022: light_signal_left
+    100024: light_signal_right
+    100026: lights
+    100028: //RootNode
+    100030: wheel01
+    100032: wheel01_med
+    100034: wheel02
+    100036: wheel02_med
+    100038: wheel03
+    100040: wheel03_med
+    100042: wheel04
+    100044: wheel04_med
+    400000: body
+    400002: body_interior
+    400004: body_interior_low
+    400006: body_interior_med
+    400008: body_low
+    400010: body_med
+    400012: body_verylow
+    400014: cameras
+    400016: lidar01
+    400018: light_brakes
+    400020: light_front
+    400022: light_signal_left
+    400024: light_signal_right
+    400026: lights
+    400028: //RootNode
+    400030: wheel01
+    400032: wheel01_med
+    400034: wheel02
+    400036: wheel02_med
+    400038: wheel03
+    400040: wheel03_med
+    400042: wheel04
+    400044: wheel04_med
+    2100000: Details
+    2100002: paint
+    2100004: windows
+    2100006: Interior
+    2300000: body
+    2300002: body_interior
+    2300004: body_interior_low
+    2300006: body_interior_med
+    2300008: body_low
+    2300010: body_med
+    2300012: body_verylow
+    2300014: light_brakes
+    2300016: light_front
+    2300018: light_signal_left
+    2300020: light_signal_right
+    2300022: wheel01
+    2300024: wheel01_med
+    2300026: wheel02
+    2300028: wheel02_med
+    2300030: wheel03
+    2300032: wheel03_med
+    2300034: wheel04
+    2300036: wheel04_med
+    3300000: body
+    3300002: body_interior
+    3300004: body_interior_low
+    3300006: body_interior_med
+    3300008: body_low
+    3300010: body_med
+    3300012: body_verylow
+    3300014: light_brakes
+    3300016: light_front
+    3300018: light_signal_left
+    3300020: light_signal_right
+    3300022: wheel01
+    3300024: wheel01_med
+    3300026: wheel02
+    3300028: wheel02_med
+    3300030: wheel03
+    3300032: wheel03_med
+    3300034: wheel04
+    3300036: wheel04_med
+    4300000: wheel04
+    4300002: wheel03
+    4300004: wheel02
+    4300006: wheel01
+    4300008: light_signal_left
+    4300010: light_signal_right
+    4300012: light_brakes
+    4300014: light_front
+    4300016: wheel01_med
+    4300018: wheel02_med
+    4300020: wheel03_med
+    4300022: wheel04_med
+    4300024: body
+    4300026: body_interior
+    4300028: body_med
+    4300030: body_interior_med
+    4300032: body_low
+    4300034: body_interior_low
+    4300036: body_verylow
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
